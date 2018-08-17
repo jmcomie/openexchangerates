@@ -2,8 +2,9 @@
 openexchangerates
 =================
 
-This is a simple python client implementation of https://openexchangerates.org
-web services.
+This is a forked version for the python client implementation of https://openexchangerates.org web services.
+
+The only changes made were corrections to the source code that made it compatible with Python 3 or greater.
 
 Install
 -------

@@ -2,13 +2,13 @@ from setuptools import setup
 
 setup(
     name='openexchangerates',
-    version='0.1.1',
-    description='openexchangerates.org python API client',
+    version='1.0.0',
+    description='openexchangerates.org python API client (forked in version 3)',
     long_description=open('README.rst').read(),
-    url='https://github.com/metglobal/openexchangerates',
+    url='https://github.com/asosnovsky/openexchangerates',
     license='MIT',
-    author='Metglobal',
-    author_email='kadir.pekel@metglobal.com',
+    author='Individual',
+    author_email='ariel@sosnovsky.ca',
     packages=['openexchangerates'],
     install_requires=[
         'requests',
